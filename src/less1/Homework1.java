@@ -4,8 +4,8 @@ package less1;
 // then press Enter. You can now see whitespace characters in your code.
 public class Homework1 {
     public static void main(String[] args) {
-        double a = 20;
-        double b = 40;
+        double a = 10;
+        double b = 60;
 
         System.out.println("a = " + a);
         System.out.println("b = "+ b);
