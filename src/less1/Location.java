@@ -1,6 +1,6 @@
 package less1;
 
-public class Homework2 {
+public class Location {
     public static void main(String[] args) {
         double width = 46.4885647;
         double length = 30.7420145;

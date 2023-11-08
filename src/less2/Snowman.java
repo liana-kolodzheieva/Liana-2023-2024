@@ -5,7 +5,7 @@ import java.math.MathContext;
 import java.math.RoundingMode;
 import java.util.Scanner;
 
-public class homework3 {
+public class Snowman {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         System.out.println("введіть радіус першого шару сніговика: ");

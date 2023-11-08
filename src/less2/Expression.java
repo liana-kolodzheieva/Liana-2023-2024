@@ -5,7 +5,7 @@ import java.math.MathContext;
 import java.math.RoundingMode;
 import java.util.Scanner;
 
-public class homework4 {
+public class Expression {
     public static void main(String[] args) {
         //Найти результат выражения | a- b | / (a + b) ^3 - √c
         Scanner scanner = new Scanner(System.in);
