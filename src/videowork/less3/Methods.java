@@ -1,4 +1,4 @@
-package videoWork.Less3;
+package videowork.less3;
 
 public class Methods {
     public static void main(String[] args) {

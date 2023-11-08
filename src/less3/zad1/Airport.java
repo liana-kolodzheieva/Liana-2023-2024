@@ -1,4 +1,4 @@
-package less3.Zad1;
+package less3.zad1;
 
 public class Airport {
     

@@ -1,4 +1,4 @@
-package videoWork;
+package videowork;
 
 public class fgf {
 }
