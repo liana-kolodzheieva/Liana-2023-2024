@@ -35,7 +35,7 @@ public class Companny {
         System.out.println("Зарплата першої особи за рік після налогу: " + salaryWithTaxForYearP1);
         //Зарплата після віддачі налогу за ?? років
         double salaryWithTaxForXYearP1 = salaryForXYearP1 - taxForXYearP1;
-        System.out.println("Зарплата першої особи за : " + year + " років/роки після налогу: " + salaryWithTaxForXYearP1);
+        System.out.println("Зарплата першої особи за" + year + " років/роки після налогу: " + salaryWithTaxForXYearP1);
         System.out.println(" ");
 
         //1
@@ -57,7 +57,7 @@ public class Companny {
         System.out.println("Зарплата другої особи за рік після налогу: " + salaryWithTaxForYearP2);
         //Зарплата після віддачі налогу за ?? років
         double salaryWithTaxForXYearP2 = salaryForXYearP2 - taxForXYearP2;
-        System.out.println("Зарплата другої особи за : " + year + " років/роки після налогу: " + salaryWithTaxForXYearP2);
+        System.out.println("Зарплата другої особи за" + year + " років/роки після налогу: " + salaryWithTaxForXYearP2);
         System.out.println(" ");
 
 
@@ -80,7 +80,7 @@ public class Companny {
         System.out.println("Зарплата третьої особи за рік після налогу: " + salaryWithTaxForYearP3);
         //Зарплата після віддачі налогу за ?? років
         double salaryWithTaxForXYearP3 = salaryForXYearP3 - taxForXYearP3;
-        System.out.println("Зарплата третьої особи за : " + year + " років/роки після налогу: " + salaryWithTaxForXYearP3);
+        System.out.println("Зарплата третьої особи за" + year + " років/роки після налогу: " + salaryWithTaxForXYearP3);
         System.out.println(" ");
 
 
